@@ -54,7 +54,7 @@ h1 {
   text-align: center;
   line-height: 1;
   font-weight: 700;
-  font-size: 60px;
+  font-size: 4rem;
   font-family: Raleway;
   letter-spacing: 3px;
 }
@@ -62,7 +62,7 @@ h1 {
 p {
   font-family: Quicksand;
   font-weight: bold;
-  margin-bottom: 40px;
+  margin-bottom: 30px;
 }
 
 .icons {
